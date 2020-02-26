@@ -1,0 +1,29 @@
+Package: معرف الاداة 
+Version: الاصدار
+Architecture: iphoneos-arm
+Maintainer: اكتب اسمك
+Depends: المتطلبات 
+Conflicts: التعارضات
+Filename: موقع الملف
+Size: 
+MD5sum: 
+SHA1: 
+SHA256: 
+Section: Tweaks
+Depiction: رابط صفحة الوصف 
+Name: اسم  الاداه 
+
+Package: com.unlimapps.uaupdatetools 
+Version: 1.0r-102
+Architecture: iphoneos-arm
+Maintainer: x7mii
+Depends:  firmware (>= 7.0), mobilesubstrate
+Conflicts: it.marcocristalli.asupdatehider
+Filename: bad/com.unlimapps.uaupdatetools_1.0r-102_iphoneos-arm.deb
+Size: 863628
+MD5sum: 6d7f076eb541e5bbec3e3629f152d16d
+SHA1: 058a98b3da7197c1c767c71a6db420b392a460d2
+SHA256: 8a251edeb458547686060caa4545800061b5d6d465b34982c1e76580474180c1
+Section: Tweaks
+Depiction: https://abuanassource.github.io/bad/
+Name: app admin
