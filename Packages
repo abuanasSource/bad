@@ -5,13 +5,12 @@ Architecture: iphoneos-arm
 Maintainer: abuanas
 Depends: firmware (>= 4.0), findutils, apt | apt7
 Conflicts: org.altervista.exilecom.icleaner
-Filename: debs/com.cokepokes.appstoreplusplus_0.9.5_iphoneos-arm.deb
-Size: 1670732
-MD5sum: e6e914ec0c7e9938241241a96d5c4821
-SHA1: 056678da97b18a9d880a332c90dcf12c5c0ef674
-SHA256: 3742beed0cab8114ac1e7c4d5c81fa30c467edd29df710204f9e3d8923b059e2
+Filename: debs/iCleanerPro_7.8.0.deb
+MD5sum: 8ef71615f225c91deac803aff2826728
+SHA1: 5349b3e09ebedd754e62682b7739bead113e5291
+SHA256: 5e11c3c904c78315a10b8e0636849f5881428b390767d44da8b8a8574b048cf2
 Section: Tweaks
 Depiction: https://abuanassource.github.io/bad/
-Name: appstore++
+Name: icleaner pro
 
 
