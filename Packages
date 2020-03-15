@@ -1,10 +1,10 @@
 
-Package: com.cokepokes.appstoreplusplus 
-Version: 0.9.5
+Package: com.exile90.icleanerpro
+Version: 7.8.0
 Architecture: iphoneos-arm
-Maintainer: abuanassource
-Depends:  firmware (>= 11.0), mobilesubstrate 
-Conflicts: com.unlimapps.uaupdatetools
+Maintainer: abuanas
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
 Filename: debs/com.cokepokes.appstoreplusplus_0.9.5_iphoneos-arm.deb
 Size: 1670732
 MD5sum: e6e914ec0c7e9938241241a96d5c4821
@@ -15,17 +15,3 @@ Depiction: https://abuanassource.github.io/bad/
 Name: appstore++
 
 
-Package: com.tigisoftware.appdatamanager 
-Version: 1.4.2
-Architecture: iphoneos-arm
-Maintainer: abuanassource
-Depends:  firmware (>= 7.0) 
-Conflicts: 
-Filename: appsmanager_1.4.2.deb
-Size: 2478228
-MD5sum: 07930aa76708ebe5376fb09f489fae58
-SHA1: c9fdb0350ac9a56eb60ee45cea2f2d997fa96b8c
-SHA256: adc861eb2ac147d573ff6dc32f244d2f958b5eb295bbacab9dc9363b6e07da48
-Section: Tweaks
-Depiction: https://abuanassource.github.io/bad/
-Name: Apps Manager
